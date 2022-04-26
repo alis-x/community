@@ -1,8 +1,7 @@
 name: "Docs Request for an Update or Improvement"
 description: A request to update or improve alis.exchange documentation
 title: "Docs: <Provide a title for the docs request>"
-labels:
-  - "Documentation"
+labels: "Documentation"
 body:
   - type: textarea
     attributes:
