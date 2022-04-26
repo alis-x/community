@@ -1,6 +1,6 @@
 name: Feature Request
 description: Create a feature request for the Next.js core
-title: "[Feature Request] <title>"
+title: "Feature Request: <Provide a title for the feature request>"
 labels:
   - "Feature Request"
 body:
