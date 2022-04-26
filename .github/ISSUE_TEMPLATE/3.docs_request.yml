@@ -7,7 +7,7 @@ body:
   - type: textarea
     attributes:
       label: What is the improvement or update you wish to see?
-      description: "Example: I would like to see more examples of how to implement a bigTable instance in my product. Or, the `alis CLI` docs are missing information."
+      description: "Example: I would like to see more examples of how to implement a bigTable instance in my product. Or, the docs are missing information on the CLI."
     validations:
       required: true
   - type: textarea
